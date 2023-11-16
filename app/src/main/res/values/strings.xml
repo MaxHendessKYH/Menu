@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="Header">Auntie Ethels Restaurant</string>
+    <string name="starters_btn">Appetizers</string>
+    <string name="desserts_btn">Desserts</string>
+    <string name="mainCourse_btn">Main Course</string>
+
+    <string name="item1_Header_Starters">Aunties Apple</string>
+    <string name="item1_Info_Starters">We totally did not poison this apple. 10/10 apple, Its to die for.</string>
+    <string name="item2_Header_Starters">Witch Fingers</string>
+    <string name="item2_Info_Starters">Don\'t poke your eyes out dearie.</string>
+    <string name="item3_Header_Starters">Pizza Perogies</string>
+    <string name="item3_Info_Starters">Mashed potatoes, cottage cheese, onion poweder, bacon bits, chopped dill pickles</string>
+
+    <string name="item1_Header_MainCourse">Mushroom Soup</string>
+    <string name="item1_Info_MainCourse">Might contain hints of mushrooms.</string>
+    <string name="item2_Header_MainCourse">The Carnivore</string>
+    <string name="item2_Info_MainCourse">Ribs , apple ham olives.</string>
+    <string name="item3_Header_MainCourse">Monster Burger</string>
+    <string name="item3_Info_MainCourse">Made from monster meat.</string>
+
+    <string name="item1_Header_Desserts">Gingerbreads</string>
+    <string name="item1_Info_Desserts">Made from gingers and breads.</string>
+    <string name="item2_Header_Desserts">Apple Pie</string>
+    <string name="item2_Info_Desserts">Nothing suspiscious at all love. Served with vanilla sauce.</string>
+    <string name="item3_Header_Desserts">Spoopy Ice Cream</string>
+    <string name="item3_Info_Desserts">This is were id put the recipe if I had one.</string>
+</resources>

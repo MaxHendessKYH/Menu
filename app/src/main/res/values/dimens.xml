@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_txt_size">34sp</dimen>
+    <dimen name ="h2_txt_size">22sp</dimen>
+    <dimen name="ptag">18sp</dimen>
+    <dimen name="btn_txt">15sp</dimen>
+    <dimen name="img_width">140dp</dimen>
+    <dimen name="img_height">120dp</dimen>
+    <dimen name="info_txt_Width">190dp</dimen>
+    <dimen name="mainCourseMargin">144dp</dimen>
+    <dimen name="mc_margin_top">68dp</dimen>
+    <dimen name="DessertsBtn_margin">296dp</dimen>
+</resources>
